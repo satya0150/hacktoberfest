@@ -18,7 +18,6 @@ Marist College
 - Horror Movies
 
 ### Development
-
 - Dev in Training
 
 ### Projects
